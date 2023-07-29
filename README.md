@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h2>I'm Ricardo Higa</h2>
+
+![gmail icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![linkedin icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![ricardohiga84 ststs](https://github-readme-stats.vercel.app/api?username=ricardohiga84&theme=dark&show_icons=true)
 <!--
 **ricardohiga84/ricardohiga84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
